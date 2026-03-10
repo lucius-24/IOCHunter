@@ -1,4 +1,4 @@
-# 兼听 (IocHunter) - 高并发 IOC 域名解析校验工具
+# 兼听 (IOCHunter) - 高并发 IOC 域名解析校验工具
 
 ![Version](https://img.shields.io/badge/Version-V1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
